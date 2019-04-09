@@ -8,4 +8,4 @@ Ce script à installer dans Google Script App permet d'envoyer une notification
 Dans Google Script app, ajouter un déclencheur basé sur la feuille de calcul,
 lors d'une modification pour exécuter la fonction sendText.
 
-Licence : cc0
+Licence : CC0
